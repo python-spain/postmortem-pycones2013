@@ -3,20 +3,45 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Memoria PyConES 2013's documentation!
-================================================
+Memoria PyConES 2013
+====================
 
-Contents:
+.. image:: _static/logo.png
+    :align: right
+    :width: 20 %
+
+Esta memoria documenta el proceso de organización de la Python Conference
+Spain (PyConES) en su primera edición, celebrada del 22 al 24 de noviembre
+de 2013 (http://2013.es.pycon.org/).
+
+El objetivo es dejar constancia del desarrollo, comentar los aciertos y
+errores cometidos y servir de referencia a los organizadores de futuras
+ediciones.
+
+Contenidos
+----------
 
 .. toctree::
    :maxdepth: 2
 
+   objetivos
+   asociacion
+   sede
+   tareas
+   presupuesto
+   patrocinadores
+   comunicacion
+   registro
+   charlas
+   becas
+   logistica
+   feedback
+   conclusiones
 
+Notas adicionales
+-----------------
 
-Indices and tables
-==================
+.. toctree::
+    :maxdepth: 1
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+    about
