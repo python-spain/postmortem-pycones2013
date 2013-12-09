@@ -13,4 +13,4 @@ Para recrear la documentación:
 
     $ pip install -r requirements.txt
     $ make html
-    $ cd build/html && python -m http.server
+    $ cd build/html && python3 -m http.server
