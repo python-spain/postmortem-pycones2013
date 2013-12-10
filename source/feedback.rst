@@ -19,4 +19,5 @@ http://concienciacosmicacd2012.blogspot.com.es/2013/12/cronica-de-pycones-primer
 
 http://softwareyotrasdesvirtudes.wordpress.com/2013/12/09/ya-tengo-casa-lacarrismos-25-nov-9-dic/ (pybirras)
 
+http://blog.oscarcp.com/?p=305
 
