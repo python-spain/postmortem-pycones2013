@@ -22,15 +22,15 @@ Se recibieron un total de 82 charlas que, finalmente, quedaron  distribuidas de 
 Cosas a mejorar:
 
 * El track científico surgió sobre la marcha al ver la cantidad de charlas relacionadas con esta temática. Por tanto,
-en el envío previo de charlas no existía la posibilidad de elegir que el 'nivel' fuera para el científico. Habría que
-anticiparse mejor a esto y obligar a los ponentes a seleccionar un nivel de charla ya que algunos no pusieron a qué
-nivel correspondía su charla y el comité de selección de charlas tuvo que improvisar basándose en la descripción de
-la misma.
+  en el envío previo de charlas no existía la posibilidad de elegir que el 'nivel' fuera para el científico. Habría que
+  anticiparse mejor a esto y obligar a los ponentes a seleccionar un nivel de charla ya que algunos no pusieron a qué
+  nivel correspondía su charla y el comité de selección de charlas tuvo que improvisar basándose en la descripción de
+  la misma.
 
 * ¿Mejor comunicación para informar sobre plazos? El tema de que el c4p se centrase en verano provocó que nos 
-surgieran dudas pensando que quizá mucha gente estaría de vacaciones o volviendo de las mismas y con mucho 
-trabajo acumulado y se olvidase de enviar su charla en plazo. De hecho a algunos parece que se les pasó el 
-plazo (e.g. https://twitter.com/jcea/status/379398931391590400) y sabemos que no fue el único.
+  surgieran dudas pensando que quizá mucha gente estaría de vacaciones o volviendo de las mismas y con mucho 
+  trabajo acumulado y se olvidase de enviar su charla en plazo. De hecho a algunos parece que se les pasó el 
+  plazo (e.g. https://twitter.com/jcea/status/379398931391590400) y sabemos que no fue el único.
 
 
 Proceso de selección
