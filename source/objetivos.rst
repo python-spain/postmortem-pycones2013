@@ -26,6 +26,7 @@ Hemos cumplido varios objetivos en esta primera PyConES_:
 * crear un evento sobre Python con buen nivel, que anime a seguir desarrollando y aprendiendo este lenguaje.
 * conseguir la atención de empresas, hasta el punto de que varias hayan patrocinado el evento.
 * crear un ambiente cómodo y no excluyente para quienes asistieran de alguna forma.
+* poner a disposición de cualquier persona todo el material de las charlas mediante grabaciones en vídeo y el material usado en la presentación misma.
 
 Diversidad y código de conducta
 ...............................
