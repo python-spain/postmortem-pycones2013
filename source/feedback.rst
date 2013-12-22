@@ -21,3 +21,4 @@ http://softwareyotrasdesvirtudes.wordpress.com/2013/12/09/ya-tengo-casa-lacarris
 
 http://blog.oscarcp.com/?p=305
 
+http://www.cacheme.org/analisis-de-la-pycones-cientifico/ (podcast sobre PyConES)
