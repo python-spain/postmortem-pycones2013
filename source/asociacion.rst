@@ -1,7 +1,7 @@
 Creación de la asociación
 =========================
 
-*Escrito por el presidente de la Asociación Python-España, Pablo lobariñas*
+*Escrito por el presidente de la Asociación Python-España, Pablo Lobariñas*
 
 El germen se empezó a gestar allá por el otoño de 2010, cuando `Kiko Correoso empezó a 'molestar' por las listas`_ de
 cara a crear un grupo de pythonistas de la zona centro del país. En noviembre de ese mismo año, `Kiko creó una lista`_ 
@@ -15,15 +15,16 @@ zona de la Guindalera. Sin duda, Kaleidos y su gente (Jesús Espino, Andrey Anto
 clave para la consolidación de un grupo permanente, además de habituales como Jesús Cea, Kiko Correoso, Juan Luis Cano, 
 Alberto Chamorro, JJ, Lasizoillo, por nombrar algunos.
 
-Todo esto nos lleva a Febrero del 2012 cuando se hace una propuesta en la lista de correo de un logotipo del grupo para 
-unas camisetas. El diseño de Rubén Hidalgo y las aportaciones al mismo de Juan Luis Cano tienen una aceptación casi 
-instantánea, y un tiempo después las camisetas se reparten por Madrid y otros lugares de España, incluso se envían a 
-Estados Unidos, pues a la PSF les han gustado.
+Todo esto nos lleva a Febrero del 2012, cuando se propone en la lista de correo crear un logotipo del grupo 
+Python-Madrid. El diseño de Rubén Hidalgo y las aportaciones al mismo de Juan Luis Cano tienen una aceptación casi 
+instantánea. Se imprimen con él camisetas que se distribuyen a gente de Madrid, principalmente, y a otros puntos de 
+España, incluso se envían a Estados Unidos, pues a la PSF les han gustado. Este pequeño detalle marca un punto 
+importante, pues muestra que hay interés por hacer cosas, y gente interesada, no sólo en Madrid, sino por toda España.
 
-Ya entonces, dentro del grupo, gracias a lo distendido de las cañas posteriores a cada reunión del grupo, se comenta 
-seriamente la posibilidad de organizar un evento tipo PyCon. Uno de los primeros pasos para ello es crear una 
-asociación, una entidad jurídica que respalde un evento de esas características. Se contactó con diversas personas y
-se lanzó la idea por las listas uniéndose a la idea gente de distintas partes de España.
+Se había comentado más de una vez, de manera informal, la posibilidad de montar algo tipo PyCon, pero es entonces 
+cuando esa idea empieza a tomar forma real. Uno de los primeros pasos para ello es crear una asociación, una entidad 
+jurídica que respalde un evento de esas características. Comienzan los contactos y se lanza la idea por las listas, 
+donde gente de distintas partes de España la acogen muy positivamente.
 
 Durante el verano de ese año P. Lobariñas elaboró los Estatutos y el Reglamento de la futura asociación, después vinieron algunas 
 reuniones y la firma del Acta Fundacional, que viajó por toda España, recogiendo las firmas de los quince socios 
