@@ -11,11 +11,15 @@ El equipo organizador tuvo que tomar algunas decisiones:
 
 * ¿Cuántos niveles de patrocinio? ¿Qué cantidad en cada nivel? Vimos que era innecesariamente complicado sofisticar mucho el sistema de patrocinios, y no veíamos que fuéramos a tener una mejor respuesta si el sistema de patrocinio tuviera más variantes.
 
-* Patrocinio y colaboracióin. Establecimos 4 niveles de patrocinio en forma de donación directa, y un nivel de colaboración donde pudimos dar visibilidad a otras formas de apoyo.
+* Patrocinio y colaboración. Establecimos 4 niveles de patrocinio en forma de donación directa, y un nivel de colaboración donde pudimos dar visibilidad a otras formas de apoyo. Este nivel se incluyó en una etapa avanzada cuando nos dimos cuenta de que había muchas formas de colaborar que no tenían por qué implicar necesariamente donar dinero (difusión, regalos).
 
 * ¿Qué compensaciones por patrocinio dábamos? Hicimos un listado de las compensaciones que podíamos ofrecer. Cuanto mayor fuera el nivel, más y mejores compensaciones se tenían (siempre en modo incremental).
 
+Contactamos con una serie de empresas tecnológicas internacionales (Dell, Pinterest, Softonic, HP, Disqus) que en su mayoría ignoraron nuestras propuestas. De Dropbox incluso obtuvimos un rotundo "Sponsorship, ignore" (a tener en cuenta para futuras ocasiones). Al final, como se puede ver en la lista de patrocinadores la mayoría del dinero vino de empresas españolas. Google hizo una aportación de bajo nivel, y además requirió cierto papeleo previo.
+
 Una de las preguntas que más hacían, en los primeros correos que intercambiábamos con los patrocinadores candidatos, eran sobre  números y estimaciones. Esto en nuestro caso era complicado de saber, pues no teníamos ediciones anteriores en las que fijarnos: cuántos asistentes, cuántas empresas, qué presupuesto estimado, etc. El próximo equipo organizador podría tener esta información en cuenta a la hora de preparar el material de marketing para patrocinios.
+
+Otro de los fallos que nos achacaron fue a la hora de dar pases para las personas que iban a estar en el stand. Según algunos patrocinadores en otras conferencias se venden a precios más bajos o se regalan directamente, no dando acceso a las charlas. Para tener en cuenta para la próxima vez.
 
 Patrocinadores finales
 ======================
