@@ -34,14 +34,5 @@ Contenidos
    registro
    charlas
    becas
-   logistica
    feedback
    conclusiones
-
-Notas adicionales
------------------
-
-.. toctree::
-    :maxdepth: 1
-
-    about

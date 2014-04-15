@@ -3,6 +3,9 @@ Feedback
 
 Obtención de feedback.
 
+- encuesta / sorteo
+- datos extraídos de las encuestas
+
 Recopilación de posts después de la conferencia:
 
 http://arsmentis.blogspot.com.es/2013/11/conferencias-pycones-2013.html

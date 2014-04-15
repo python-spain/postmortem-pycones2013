@@ -6,5 +6,6 @@ Gestión de tareas.
 
 - trello
 - distribución de tareas
-- call4papers
 - voluntarios
+- call4papers
+- papelería, catering, grabación, rollups

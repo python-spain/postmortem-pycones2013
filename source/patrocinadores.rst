@@ -15,7 +15,7 @@ El equipo organizador tuvo que tomar algunas decisiones:
 
 * ¿Qué compensaciones por patrocinio dábamos? Hicimos un listado de las compensaciones que podíamos ofrecer. Cuanto mayor fuera el nivel, más y mejores compensaciones se tenían (siempre en modo incremental).
 
-Una de las preguntas que más hacían, en los primeros correos que intercambiábamos con los patrocinadores candidatos, eran sobre  números y estimaciones. Esto en nuestro caso era complicado de saber, pues no teníamos ediciones anteriores en las que fijarnos: cuántos asistentes, cuántas empresas, qué presupuesto estimado, etc. El próximo equipo organizador podría tener esta información en cuenta a la hora de preparar el material de mkt para patrocinios.
+Una de las preguntas que más hacían, en los primeros correos que intercambiábamos con los patrocinadores candidatos, eran sobre  números y estimaciones. Esto en nuestro caso era complicado de saber, pues no teníamos ediciones anteriores en las que fijarnos: cuántos asistentes, cuántas empresas, qué presupuesto estimado, etc. El próximo equipo organizador podría tener esta información en cuenta a la hora de preparar el material de marketing para patrocinios.
 
 Patrocinadores finales
 ======================
