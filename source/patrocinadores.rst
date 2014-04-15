@@ -1,7 +1,21 @@
 Patrocinadores
 ==============
 
-Búsqueda y gestión de patrocinadores.
+La búsqueda y gestión de patrocinadores fue algo caótica en su inicio: no sabíamos bien a qué tipo de empresas acudir, qué información podría resultarles interesante, cómo organizar los niveles de patrocinio.
+
+Éramos 3 ó 4 encargados de conseguir patrocinadores. Teníamos un listado compartido con las empresas que se nos ocurrían que podrían querer patrocinar PyConES. Una vez que una empresa entraba en la lista, uno de los encargados se la asignaba y le escribía un correo inicial (teníamos uno estándar redactado). Este correo incluía un PDF muy bonito con la información relevante sobre la conferencia y los niveles de patrocinio.
+
+El equipo organizador tuvo que tomar algunas decisiones:
+
+* ¿Qué niveles de patrocinio hay? En primera instancia se nos ocurrió poner ciertos rangos, pero se descartó rápidamente por el desequilibrio intrínseco que conlleva. Así que decidimos dejarlo en cantidades fijadas.
+
+* ¿Cuántos niveles de patrocinio? ¿Qué cantidad en cada nivel? Vimos que era innecesariamente complicado sofisticar mucho el sistema de patrocinios, y no veíamos que fuéramos a tener una mejor respuesta si el sistema de patrocinio tuviera más variantes.
+
+* Patrocinio y colaboracióin. Establecimos 4 niveles de patrocinio en forma de donación directa, y un nivel de colaboración donde pudimos dar visibilidad a otras formas de apoyo.
+
+* ¿Qué compensaciones por patrocinio dábamos? Hicimos un listado de las compensaciones que podíamos ofrecer. Cuanto mayor fuera el nivel, más y mejores compensaciones se tenían (siempre en modo incremental).
+
+Una de las preguntas que más hacían, en los primeros correos que intercambiábamos con los patrocinadores candidatos, eran sobre  números y estimaciones. Esto en nuestro caso era complicado de saber, pues no teníamos ediciones anteriores en las que fijarnos: cuántos asistentes, cuántas empresas, qué presupuesto estimado, etc. El próximo equipo organizador podría tener esta información en cuenta a la hora de preparar el material de mkt para patrocinios.
 
 Patrocinadores finales
 ======================
