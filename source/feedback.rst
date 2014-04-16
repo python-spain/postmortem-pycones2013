@@ -1,12 +1,15 @@
 Feedback
 ========
 
-Obtención de feedback.
+Obtención de feedback
+---------------------
 
-- encuesta / sorteo
-- datos extraídos de las encuestas
+Para conseguir opiniones sobre el evento añadimos una encuesta en el welcome pack. Y para animar a los asistentes a rellenarla, la encuesta venía con la opcióin a participar en el sorteo. De forma que los que querían participar, tenían que entregar aparte la encuesta.
 
-Recopilación de posts después de la conferencia:
+Durante la redacción de esta sección, aún no está procesada la información extraída de estas encuestas.
+
+Feedback externo
+----------------
 
 http://arsmentis.blogspot.com.es/2013/11/conferencias-pycones-2013.html
 
