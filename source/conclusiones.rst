@@ -7,9 +7,15 @@ Conclusiones
 - evaluación general: interna y externa
 
 Cifras
------
+------
 
 TODO
+- cuántos asistentes
+- cuánto dinero
+- dinero en patrocinios
+- número de patrocinadores
+- mujeres
+- cuántos correos
 
 Futuro
 ------
