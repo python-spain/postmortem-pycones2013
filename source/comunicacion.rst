@@ -1,3 +1,5 @@
+.. _comunicacion:
+
 Comunicación
 ============
 
@@ -11,4 +13,4 @@ Afortunadamente se consiguió contactar con el ayuntamiento para que difundiese 
 
 Tal vez podría haberse planteado tener un blog en el que publicar actualizaciones periódicas como hacen otras conferencias (EuroPython) y ofrecer la posibilidad de suscripción por correo electrónico. De este modo se cumpliría la misión de llegar a la audiencia interesada y de poder publicar noticias con contenido de cara al público.
 
-Cuando empezó la conferencia se echó en falta un medio donde publicar cierta información y algunas personas se quejaron de un fallo en la comunicación a la hora por ejemplo de anunciar los talleres (solo se anunciaron por Twitter). En otros casos se recurrió a Gists de GitHub para difundir la información. 
+Cuando empezó la conferencia se echó en falta un medio donde publicar cierta información y algunas personas se quejaron de un fallo en la comunicación a la hora por ejemplo de anunciar los talleres (solo se anunciaron por Twitter). En otros casos se recurrió a Gists de GitHub para difundir la información.

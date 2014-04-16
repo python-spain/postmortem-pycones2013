@@ -1,3 +1,5 @@
+.. _presupuesto:
+
 Elaboración del presupuesto
 ===========================
 
@@ -6,7 +8,7 @@ La elaboración del presupuesto tuvo dos vertientes fundamentales:
 Organización de la información
 ------------------------------
 
-La principal mantenedora y gestora del presupuesto fue Yamila Moreno. Dado que Yamila reconoció no tener experiencia en la gestión de presupuestos, la aproximación inicial fue una hoja de cálculo compartida. El documento fue creado por XXXXX en un formato sencillo donde pudiéramos ir gestionando entradas y salidas.
+La principal mantenedora y gestora del presupuesto fue Yamila Moreno. Dado que Yamila reconoció no tener experiencia en la gestión de presupuestos, la aproximación inicial fue una hoja de cálculo compartida. El documento fue creado por TODO en un formato sencillo donde pudiéramos ir gestionando entradas y salidas.
 
 Conforme el presupuesto fue haciéndose más sofisticado tanto en conceptos como en cantidades, el documento se fue ampliando, conforme Yamila iba necesitando.
 
@@ -24,7 +26,7 @@ En vista de que la principal encargada y también responsable era Yamila, tomó 
 
 Actualmente, el presupuesto sigue estando accesible en modo solo lectura en la siguiente URL:
 
-.. https://docs.google.com/spreadsheet/ccc?key=0AnZrjxQqa3mYdEJhT0tTbVl4NWVUbmxiWjIxNTRxRkE&usp=sharing
+https://docs.google.com/spreadsheet/ccc?key=0AnZrjxQqa3mYdEJhT0tTbVl4NWVUbmxiWjIxNTRxRkE&usp=sharing
 
 Junto a la hoja de cálculo, teníamos varias carpetas compartidas (en Google Drive) con las facturas emitidas y las facturas recibidas. El tesorero en ese momento (Andrey Antoukh) y Yamila Moreno se encargaban de generar las facturas numeradas y hacer seguimiento de los pagos correspondientes.
 
